@@ -10,8 +10,8 @@ import { CellularIcon } from '@/components/ui/icons/cellular'
 import { WiFiIcon } from '@/components/ui/icons/wi-fi'
 import { BatteryIcon } from '@/components/ui/icons/battery'
 import { BatteryOutlineIcon } from '@/components/ui/icons/battery-outline'
-import { Input } from '@/components/ui/ui/input'
-import { Tabs } from '@/components/ui/ui/tabs'
+import { Input } from '@/components/ui/input'
+import { Tabs } from '@/components/ui/tabs'
 
 // Each genre's name is split into the lines it is set on in the design.
 const genres = [
